@@ -1,3 +1,5 @@
 # TSV_3wafer
-## first step is to process the data autometically
-## second step is to build the prediction model on LAG effect (phsical model on TSV)
+
+## Processing Steps
+1. Process data automatically
+2. Building prediction model on LAG effect (physical model on TSV)
